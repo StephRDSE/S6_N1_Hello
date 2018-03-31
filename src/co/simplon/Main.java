@@ -34,7 +34,7 @@ public class Main {
 		
 		System.out.println(line1 + "\n" + line2 + "\n" + line3 + "\n" + line4 + "\n" + line5);
 		
-		
+	in.close();	
 	}
 
 }
